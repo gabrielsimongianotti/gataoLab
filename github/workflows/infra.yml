@@ -1,3 +1,4 @@
+name: "gatao lab Workflow"
 steps:
   - name: Debug secrets
     run: |
