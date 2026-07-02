@@ -1,0 +1,5 @@
+steps:
+  - name: Debug secrets
+    run: |
+      echo "Role ARN is set: ${{ secrets.AWS_ASSUME_ROLE_ARN != '' }}"
+      echo "Region: ${{ inputs.aws-region }}"
