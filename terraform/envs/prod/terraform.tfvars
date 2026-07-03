@@ -1,1 +1,1 @@
-bucket_name = "prod-bucket-gabrielsimongianotti"
+bucket_name = "prod-bucket-gataolab"

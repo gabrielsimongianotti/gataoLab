@@ -1,1 +1,1 @@
-bucket_name = "neww-stating-bucket"
+bucket_name = "new-stating-gataolab"
