@@ -1,1 +1,1 @@
-bucket_name = "dev-bucket"
+bucket_name = "prod-bucket"
